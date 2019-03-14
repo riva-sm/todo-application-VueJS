@@ -17,4 +17,4 @@ Click on **restore button** to cancel your selected.
 **Remove button** - remove selected task. You can remove your task after done it.
 
 
-[show finish project](https://riva-sm.github.io/todo-application-VueJ)
+[show finish project](https://riva-sm.github.io/todo-application-VueJS/)
